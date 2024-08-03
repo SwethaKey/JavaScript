@@ -11,13 +11,13 @@ Variable ;
 
 # Let, Const & Var
 
-var = Variable can be re-declared & updated. A global scope variable. (we use 2015 year).(can change the variable value)(var will never use in Javascript now)
+# var = Variable can be re-declared & updated. A global scope variable. (we use 2015 year).(can change the variable value)(var will never use in Javascript now)
      var age = 35;
      var age = 40;
      var age = 50;
      console.log(age);
 
-let = Variable cannot be re-declared but can be updated. A block scope variable.(cannot change the variable value and we can update)
+# let = Variable cannot be re-declared but can be updated. A block scope variable.(cannot change the variable value and we can update)
   1. let age = 25;
      age = 30;
      age = 35;
@@ -38,7 +38,7 @@ let = Variable cannot be re-declared but can be updated. A block scope variable.
        console.log(a); (you can define different block and same variable name no problem)
     }
 
-canst = Variable cannot be re-declared or updated. A block scope variable.(cannot change the variable value and update)
+# const = Variable cannot be re-declared or updated. A block scope variable.(cannot change the variable value and update)
     const age = 30;
     age = 40;(you will get error while updating)
     age = 50;
