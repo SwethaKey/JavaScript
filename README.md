@@ -26,7 +26,7 @@ let = Variable cannot be re-declared but can be updated. A block scope variable.
   2. let a;
      console.log(a) # you will get output undefined
 
-# 3. A block scope variable
+3. A block scope variable
     {
        let a = 5;
        let a = 10;(you will get error you cannot redefine inside block)
