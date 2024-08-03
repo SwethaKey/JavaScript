@@ -56,21 +56,21 @@ Variable ;
 
    2. String
    3. Boolean
-   4. Undefined
+   # 4. Undefined
         let x;
            x (Undefined iutput)
            typeof x; (Undefined output)
       
-   5. Null
+   # 5. Null
         let x = null;
            x (Null Output)
            typeof x;(object output)
       
-   6. BigInt
+   # 6. BigInt
        let x = BigInt("123")
            x (123n output)
            typeof(x);
-   7. symbol
+   # 7. symbol
         let y = Symbol("Hello!")
        
 # NonPrimitive datatype
