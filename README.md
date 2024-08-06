@@ -1,5 +1,7 @@
 # JavaScript
 
+# https://developer.mozilla.org/en-US/
+
 
 Variable ;
 1. variable names are case sensitive; "a" and "A" is different.
