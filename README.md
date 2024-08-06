@@ -80,5 +80,6 @@ Variable ;
    Object = collection of values(Arrays,Functions)
 
    
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6b557b37-570b-42c2-a7a2-3f0b8df16663)
+
 
