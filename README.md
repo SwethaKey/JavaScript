@@ -83,4 +83,7 @@ Variable ;
 ![image](https://github.com/user-attachments/assets/bb6c5fcd-e1ea-407e-8a65-9f08f7656499)
 
 
+https://medium.com/@ananthvishnu/difference-between-properties-and-method-in-java-script-947537ddb93d
+
+
 
