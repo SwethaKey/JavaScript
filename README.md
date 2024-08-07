@@ -86,4 +86,5 @@ Variable ;
 https://medium.com/@ananthvishnu/difference-between-properties-and-method-in-java-script-947537ddb93d
 
 
-
+# String == immutable (you cannot change)
+# array == mutable (you can change)
