@@ -80,7 +80,7 @@ Variable ;
    Object = collection of values(Arrays,Functions)
 
    
-![image](https://github.com/user-attachments/assets/bb6c5fcd-e1ea-407e-8a65-9f08f7656499)
+![image](https://github.com/user-attachments/assets/bb6c5fcd-e1ea-407e-8a65-9f08f7656499) [Difference between the method and property]
 
 
 https://medium.com/@ananthvishnu/difference-between-properties-and-method-in-java-script-947537ddb93d
